@@ -61,4 +61,4 @@ This C++ program checks whether a given string is a palindrome. A palindrome is 
 - The commented-out `cout` statements in the `isPalindrome` function can be uncommented for debugging to see the original and reversed strings.
 
 
-   # By Sanju
+   #                  By Sanju
