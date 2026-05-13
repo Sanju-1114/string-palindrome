@@ -60,9 +60,14 @@ This C++ program checks whether a given string is a palindrome. A palindrome is 
    Palindrome
    ```
 
+---
+
 ## Dependencies
 
 - C++ Standard Library ( `<iostream>`, `<cstring>`, `<algorithm>` )
+
+
+---
 
 ## Notes
 
