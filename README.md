@@ -20,6 +20,8 @@ This C++ program checks whether a given string is a palindrome. A palindrome is 
 - If the strings match, it outputs "Palindrome"; otherwise, it outputs "Not Palindrome".
 - The `main` function tests the `isPalindrome` function with three example strings: "Sanju", "racecar", and "Ac3e3ca".
 
+---
+
 ## Installation
 
 1. **Clone the repository**:
