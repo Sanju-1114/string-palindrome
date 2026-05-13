@@ -36,6 +36,8 @@ This C++ program checks whether a given string is a palindrome. A palindrome is 
    cd string-palindrome
    ```
 
+---
+
 ## Usage
 
 1. **Compile the program**:
