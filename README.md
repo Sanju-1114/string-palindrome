@@ -4,11 +4,16 @@
 
 This C++ program checks whether a given string is a palindrome. A palindrome is a string that reads the same forward and backward (e.g., "racecar").
 
+---
+
 ## File
 
 - **string_pallindrome.cpp**: Contains the source code for the palindrome checker.
 
+---
+
 ## Functionality
+
 
 - The program defines a function `isPalindrome` that takes a string as input.
 - It creates a copy of the input string, reverses it, and compares it with the original.
